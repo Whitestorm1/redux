@@ -1,0 +1,8 @@
+.link-navbar a
+{
+    text-decoration: none! important;
+    color: rgb(244, 246, 248) !important;
+}
+a:hover{
+    text-color: whitesmoke;
+}
