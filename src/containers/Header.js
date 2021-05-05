@@ -19,7 +19,7 @@ import "./All.css";
       <Nav.Link className="link-navbar">
       <Link to="/Sidebar" > Sidebar</Link> </Nav.Link>
       <Nav.Link className="link-navbar">
-      <Link to="/Login" >Login</Link> </Nav.Link>
+      <Link to="/Login" >Login </Link> </Nav.Link>
       <NavDropdown title="Dropdown" id="basic-nav-dropdown">
         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
